@@ -16,5 +16,7 @@ class Student {
 	static hasMany = [attendances:RegEntry, classes:Enrollment]
 
     static constraints = {
+
+	studentID unique: true
     }
 }
