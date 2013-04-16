@@ -6,7 +6,7 @@ class Student {
 	String studentID
 	String studentName
 	String learningCentreNumber
-	String courseNumber
+	Course course
 	Long height
 
 	Set classes
