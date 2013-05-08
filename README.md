@@ -36,6 +36,8 @@ Using the Application
 
 12. Click class attendees at below the form to view all the students that have registered for this class
 
+13. If you add .json or .xml to the end of the URL you can view this page in a different format
+
 *NOTE* Had I done this again I would have had the page redirect to listActiveClasses rather than back to the index, this would have been easier. 
 
 *NOTE* The listActiveClasses page should have contained the date that they were registered as is the case in the regEntry page. This is a feature I would have included had I done this again.
