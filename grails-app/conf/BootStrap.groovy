@@ -35,7 +35,7 @@ class BootStrap {
 
 
      
-     /*If this app was being created for the real world, I would use reference data. Also it is important to note that this is all actually test data and not actual input data */ 
+     /*If this app was being created for the real world, I would use more reference data. Also it is important to note that this is all actually test data and not actual input data */ 
 
     }
     def destroy = {

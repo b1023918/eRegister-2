@@ -9,8 +9,8 @@
 <body>
 <div style="padding:20px; text-align:center;">
 <ul>
-<h1><g:each in="${sheets}" var="sheet">
-RegSheet = ${sheet}
+<g:each in="${sheets}" var="sheet">
+<h1>RegSheet = ${sheet}
 </h1>
 <g:each in="${sheet.classes}" var="sig">
 <li style="list-style:none; text-align:center;">
